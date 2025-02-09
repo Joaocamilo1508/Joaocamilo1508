@@ -1,4 +1,4 @@
-## Olá! Me chamo João Estevão Camilo👋
+## Olá! Meu nome é João Estevão Camilo👋
 👨‍🎓 Graduando em ciência de dados🎲
 
 👨‍💼 Atuando como back-and
