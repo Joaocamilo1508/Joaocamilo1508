@@ -1,10 +1,11 @@
-## Olá! Meu nome é João Estevão Camilo👋
-👨‍🎓 Graduando em ciência de dados🎲
+##
+Hello, and welcome to my project repository.
+My name is João Estevão, and I am currently working as a Backend Software Engineer. Here, you will find some of the projects and outcomes from my continuous learning journey.
 
-👨‍💼 Atuando como back-and
+Below, you can find my contact information if you would like to get in touch.👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaocamilo1508&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaocamilo1508&size_weight=0.5&count_weight=0.5&langs_count=8)
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/556883fe-594e-4d56-9d3f-6d9815cb90a2" />
+
 
 ##
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
