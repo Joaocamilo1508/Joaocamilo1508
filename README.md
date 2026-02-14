@@ -4,7 +4,8 @@ My name is João Estevão, and I am currently working as a Backend Software Engi
 
 Below, you can find my contact information if you would like to get in touch.👋
 
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/556883fe-594e-4d56-9d3f-6d9815cb90a2" />
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/122519b1-9639-4c87-8c81-4205929862a3" />
+
 
 
 ##
